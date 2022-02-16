@@ -19,6 +19,7 @@ Open the `main.ipynb` file in the `your-code` directory. Follow the instructions
 
 Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
 
+
 ## Resources
 
 [Linear Model Hypothesis Testing](https://onlinecourses.science.psu.edu/stat501/node/297/)
